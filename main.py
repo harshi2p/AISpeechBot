@@ -7,7 +7,7 @@ import threading
 
 # === CONFIG ===
 AZURE_SPEECH_KEY = "Your_Azure_key"
-AZURE_REGION = "eastus" #Use eastus while creating service for more speech features
+AZURE_REGION = "your_azure_region" #Use eastus while creating service for more speech features
 OPENAI_API_KEY = "Your_Open_AI_Key"
 
 
